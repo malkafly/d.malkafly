@@ -34,15 +34,15 @@ body {
 }
 
 .wrapper div#bima span {
-    background-image: url('https://i2.wp.com/coletivobima.com.br/wp-content/uploads/2017/09/capa-bima.jpg');
+    background-image: url('img/capa-bima.jpg');
 }
 
 .wrapper div#darkinquisition span {
-    background-image: url('http://darkinquisition.com/wp-content/uploads/2014/04/20160410_Dark_Aquarius_211.jpg');
+    background-image: url('img/20160410_Dark_Aquarius_211.jpg');
 }
 
 .wrapper div#arquitecasa span {
-    background-image: url('https://i0.wp.com/coletivobima.com.br/wp-content/uploads/2017/11/arquitecasa_home.jpg');
+    background-image: url('img/arquitecasa_home.jpg');
 }
 
 .wrapper div span:hover {
