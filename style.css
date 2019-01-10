@@ -47,11 +47,11 @@ body {
 }
 
 .wrapper div#casasdeshows span {
-    background-image: url('img/arquitecasa_home.jpg');
+    background-image: url('img/casasdeshows.jpg');
 }
 
 .wrapper div#paineldaloja span {
-    background-image: url('img/arquitecasa_home.jpg');
+    background-image: url('img/paineldaloja.jpg');
 }
 
 .wrapper div span:hover {

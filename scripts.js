@@ -1,7 +1,7 @@
 flexFont = function () {
     var divs = document.getElementsByClassName("flexfont");
     for (var i = 0; i < divs.length; i++) {
-        var relFontsize = divs[i].offsetWidth * 0.11;
+        var relFontsize = divs[i].offsetWidth * 0.09;
         divs[i].style.fontSize = relFontsize + 'px';
     }
 };
