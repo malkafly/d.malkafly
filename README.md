@@ -17,13 +17,9 @@ Ajudando bandas de todos os estilos a planejarem suas turnês
 `http://paineldaloja.com.br`
 Gestão justa e perfeita.
 
-### hiBike
-`https://hibike.com.br`
-App de fidelidade para ciclistas
-
 
 #### Na mídia
-https://malkafly-na-media.tumblr.com/ aparições aleatórias em jornais, tv e zas
+https://malkafly-na-media.tumblr.com/ aparições aleatórias em jornais, tv e zas, nada sério.
 
 #### Linkedin
 https://www.linkedin.com/in/malkafly
